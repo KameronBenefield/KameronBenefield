@@ -1,10 +1,4 @@
 - 👋 Hi, I’m Kameron Benefield
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KameronBenefield/KameronBenefield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...Internships
+- 🌱 I’m currently learning ...Programming & Data Structures
+- 📫 How to reach me ... kameronbusiness23@gmail.com or kameronbenefieldapple@gmail.com
